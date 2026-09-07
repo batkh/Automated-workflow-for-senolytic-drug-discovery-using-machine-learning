@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1_score,MCC,FPR,ROC_AUC,TP,TN,FP,FN,Number_of_selected_features,Model,Best_Parameters
+0.9633 ± 0.0022,0.1106 ± 0.0820,0.0263 ± 0.0186,0.0423 ± 0.0301,0.0392 ± 0.0400,0.0071 ± 0.0020,0.5408 ± 0.0446,1.0000 ± 0.7071,1196.4000 ± 2.4083,8.6000 ± 2.4083,37.0000 ± 0.7071,402.0000 ± 0.0000,XGB,"{'n_estimators': 56, 'learning_rate': 0.23952978258410573, 'max_depth': 14}"
